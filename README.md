@@ -32,12 +32,12 @@ A collection of open source broadcast libraries and projects by Astronaut Labs.
 
 ## Codecs
 - [@/aac](https://github.com/astronautlabs/aac) - Advanced Audio Codec (AAC)
-- [@/h264](https://github.com/astronautlabs/aac) - Advanced Video Codec (AVC / H.264)
+- [@/h264](https://github.com/astronautlabs/h264) - Advanced Video Codec (AVC / H.264)
 
 ## Libraries
 
 - [@/libyuv](https://github.com/astronautlabs/libyuv-node) - Accelerated conversions between RGB and YUV
-- [@/bitstream](https://github.com/astronautlabs/libyuv-node) - Declarative and imperative bitstream processing
+- [@/bitstream](https://github.com/astronautlabs/bitstream) - Declarative and imperative bitstream processing
 - [@/jsonpath](https://github.com/astronautlabs/jsonpath) - JSON Path query implementation
 - [@/jwt](https://github.com/astronautlabs/jwt) - JSON Web Tokens
 - [@/priority-queue](https://github.com/astronautlabs/priority-queue) - Efficient priority queue implementation
