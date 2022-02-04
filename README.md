@@ -21,18 +21,18 @@ A collection of open source broadcast libraries and projects by Astronaut Labs.
 
 ## Devices
 
-- [@/decklink](https://github.com/astronautlabs/decklink) - Interact with Blackmagic DeckLink devices
+- [**Coming Soon**] [@/decklink](https://github.com/astronautlabs/decklink) - Interact with Blackmagic DeckLink devices
 
 ## Transports
 
 - [@/wdi](https://github.com/astronautlabs/wdi) - Web Display Interface, a wide area media transport protocol based on WebRTC
-- [@/ndi](https://github.com/astronautlabs/ndi) - Newtek NDI
+- [**Coming Soon**] [@/ndi](https://github.com/astronautlabs/ndi) - Newtek NDI
 - [@/rtmp](https://github.com/astronautlabs/rtmp) - Adobe's Real Time Messaging Protocol (RTMP)
 - [@/mpegts](https://github.com/astronautlabs/mpegts) - MPEG transport streams
 
 ## Codecs
 - [@/aac](https://github.com/astronautlabs/aac) - Advanced Audio Codec (AAC)
-- [@/h264](https://github.com/astronautlabs/h264) - Advanced Video Codec (AVC / H.264)
+- [**Coming Soon**] [@/h264](https://github.com/astronautlabs/h264) - Advanced Video Codec (AVC / H.264)
 
 ## Libraries
 
