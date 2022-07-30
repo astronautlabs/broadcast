@@ -21,14 +21,14 @@ A collection of open source broadcast libraries and projects by Astronaut Labs.
 
 ## Devices
 
-- [@/decklink](https://github.com/astronautlabs/decklink) - Interact with Blackmagic DeckLink devices
+- [**Coming Soon**] [@/decklink](https://github.com/astronautlabs/decklink) - Interact with Blackmagic DeckLink devices
 
 ## Transports
 
 - [@/wdi](https://github.com/astronautlabs/wdi) - Web Display Interface, a wide area media transport protocol based on WebRTC
-- [@/ndi](https://github.com/astronautlabs/ndi) - Newtek NDI
 - [@/rtmp](https://github.com/astronautlabs/rtmp) - Adobe's Real Time Messaging Protocol (RTMP)
 - [@/mpegts](https://github.com/astronautlabs/mpegts) - MPEG transport streams
+- [**Coming Soon**] [@/ndi](https://github.com/astronautlabs/ndi) - Newtek NDI
 
 ## Codecs
 - [@/aac](https://github.com/astronautlabs/aac) - Advanced Audio Codec (AAC)
@@ -38,9 +38,9 @@ A collection of open source broadcast libraries and projects by Astronaut Labs.
 - [@/flv](https://github.com/astronautlabs/flv) - Adobe's Flash Video format (FLV/F4V)
 
 ## Libraries
-
+- [@/libav](https://github.com/astronautlabs/libav) - Node.js bindings for FFmpeg's libav* libraries
 - [@/libyuv](https://github.com/astronautlabs/libyuv-node) - Accelerated conversions between RGB and YUV
-- [@/bitstream](https://github.com/astronautlabs/libyuv-node) - Declarative and imperative bitstream processing
+- [@/bitstream](https://github.com/astronautlabs/bitstream) - Declarative and imperative bitstream processing
 - [@/jsonpath](https://github.com/astronautlabs/jsonpath) - JSON Path query implementation
 - [@/jwt](https://github.com/astronautlabs/jwt) - JSON Web Tokens
 - [@/priority-queue](https://github.com/astronautlabs/priority-queue) - Efficient priority queue implementation
