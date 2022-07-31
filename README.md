@@ -20,11 +20,9 @@ A collection of open source broadcast libraries and projects by Astronaut Labs.
 - [@/amf](https://github.com/astronautlabs/amf) - Adobe's Action Message Format
 
 ## Devices
-
 - [**Coming Soon**] [@/decklink](https://github.com/astronautlabs/decklink) - Interact with Blackmagic DeckLink devices
 
 ## Transports
-
 - [@/wdi](https://github.com/astronautlabs/wdi) - Web Display Interface, a wide area media transport protocol based on WebRTC
 - [@/rtmp](https://github.com/astronautlabs/rtmp) - Adobe's Real Time Messaging Protocol (RTMP)
 - [@/mpegts](https://github.com/astronautlabs/mpegts) - MPEG transport streams
@@ -38,6 +36,7 @@ A collection of open source broadcast libraries and projects by Astronaut Labs.
 - [@/flv](https://github.com/astronautlabs/flv) - Adobe's Flash Video format (FLV/F4V)
 
 ## Libraries
+- [@/webrtc](https://github.com/astronautlabs/webrtc) - Node.js bindings for `libwebrtc` from Google
 - [@/libav](https://github.com/astronautlabs/libav) - Node.js bindings for FFmpeg's libav* libraries
 - [@/libyuv](https://github.com/astronautlabs/libyuv-node) - Accelerated conversions between RGB and YUV
 - [@/bitstream](https://github.com/astronautlabs/bitstream) - Declarative and imperative bitstream processing
