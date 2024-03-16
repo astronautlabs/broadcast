@@ -19,6 +19,7 @@ A collection of open source broadcast libraries and projects by Astronaut Labs.
 
 - [@/amf](https://github.com/astronautlabs/amf) - Adobe's Action Message Format
 - [@/m3u8](https://github.com/astronautlabs/m3u8) - MPEG URL playlists
+- [@/xml](https://github.com/astronautlabs/xml) - XML parsing and utilities
 
 ## Devices
 - [**Coming Soon**] [@/decklink](https://github.com/astronautlabs/decklink) - Interact with Blackmagic DeckLink devices
