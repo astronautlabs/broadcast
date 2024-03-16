@@ -18,6 +18,7 @@ A collection of open source broadcast libraries and projects by Astronaut Labs.
 ## Data Interchange 
 
 - [@/amf](https://github.com/astronautlabs/amf) - Adobe's Action Message Format
+- [@/m3u8](https://github.com/astronautlabs/m3u8) - MPEG URL playlists
 
 ## Devices
 - [**Coming Soon**] [@/decklink](https://github.com/astronautlabs/decklink) - Interact with Blackmagic DeckLink devices
@@ -26,6 +27,7 @@ A collection of open source broadcast libraries and projects by Astronaut Labs.
 - [@/wdi](https://github.com/astronautlabs/wdi) - Web Display Interface, a wide area media transport protocol based on WebRTC
 - [@/rtmp](https://github.com/astronautlabs/rtmp) - Adobe's Real Time Messaging Protocol (RTMP)
 - [@/mpegts](https://github.com/astronautlabs/mpegts) - MPEG transport streams
+- [@/hls](https://github.com/astronautlabs/hls) - HTTP Live Streaming
 - [**Coming Soon**] [@/ndi](https://github.com/astronautlabs/ndi) - Newtek NDI
 
 ## Codecs
